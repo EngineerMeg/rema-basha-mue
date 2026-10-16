@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://engineermeg.github.io/rema-basha-mue/sitemap.xml
